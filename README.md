@@ -1,8 +1,5 @@
 Hi everyone who accidentally came to my profile 👋
 I'm indie game developer from Ukraine 🇺🇦 🎮 🇺🇦
-<!---
-some test text here
---->
 I love games made with passion 🔥 and sincerely believe: games - are pure art. I make such games, that's why I call myself PureArtGames 😊
 
 <!---
