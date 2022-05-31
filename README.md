@@ -1,3 +1,6 @@
+[banner]: https://studio.youtube.com/channel/UCfhJjcFKMqiDZ5Ui4LBHl2w/editing/images "MyYouTube"
+[PureArtGamesBanner]:[banner]
+
 # About Me
 Hi everyone who accidentally came to my profile 👋
 I'm indie game developer from Ukraine 🇺🇦 🎮 🇺🇦
