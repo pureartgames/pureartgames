@@ -1,5 +1,7 @@
-[banner]: https://studio.youtube.com/channel/UCfhJjcFKMqiDZ5Ui4LBHl2w/editing/images "MyYouTube"
-[PureArtGamesBanner][banner]
+<!--- Banner with link to my youtube--->
+<a href = "https://www.youtube.com/channel/UCfhJjcFKMqiDZ5Ui4LBHl2w">
+  <img src = "ReadmeImages/PureArtGamesLogo2470x676.png" alt = "MyYouTube">
+</a>
 
 # About Me
 Hi everyone who accidentally came to my profile 👋
