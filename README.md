@@ -6,7 +6,7 @@
 # About Me
 Hi everyone who accidentally came to my profile 👋
 I'm indie game developer from Ukraine 🇺🇦 🎮 🇺🇦
-I love games made with passion 🔥 and sincerely believe: games - are pure art. I make such games, that's why I call myself PureArtGames 😊
+I love games made with passion 🔥 and sincerely believe: games - are pure art 🎨.
 
 ## Professional Motto
 Any task is solvable, any solution is a matter of time
